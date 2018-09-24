@@ -38,6 +38,6 @@
 	"bm_wp_wpn_fps_ass_heffy_792_st_m76"    : "Zastava M76 Stock",
 	"bm_wp_wpn_fps_ass_heffy_792_pg_m76"    : "Zastava M76 Grip",
 	"bm_wp_wpn_fps_ass_heffy_792_lr_m76"    : "Zastava M76 Receiver",
-	"bm_wp_wpn_fps_ass_heffy_792_ur_m76"    : "Zastava M76 Dust Cover",
+	"bm_wp_wpn_fps_ass_heffy_792_ur_m76"    : "Zastava M76 Dust Cover"
 
 }
