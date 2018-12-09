@@ -30,14 +30,14 @@
 	"bm_menu_magwell"        : "Magwell",
 	"bm_menu_magwell_plural" : "Magwells",
 	
-	"bm_wp_wpn_fps_ass_heffy_792_ba_m76"    : "Zastava M76 Barrel",
-	"bm_wp_wpn_fps_ass_heffy_792_fh_m76"    : "Zastava M76 Muzzle Brake",
-	"bm_wp_wpn_fps_ass_heffy_792_ch_m76"    : "Zastava M76 Bolt",
-	"bm_wp_wpn_fps_ass_heffy_792_ufg_m76"   : "Zastava M76 Upper Handguard",
-	"bm_wp_wpn_fps_ass_heffy_792_lfg_m76"   : "Zastava M76 Lower Handguard",
-	"bm_wp_wpn_fps_ass_heffy_792_st_m76"    : "Zastava M76 Stock",
-	"bm_wp_wpn_fps_ass_heffy_792_pg_m76"    : "Zastava M76 Grip",
-	"bm_wp_wpn_fps_ass_heffy_792_lr_m76"    : "Zastava M76 Receiver",
-	"bm_wp_wpn_fps_ass_heffy_792_ur_m76"    : "Zastava M76 Dust Cover"
+	"bm_wp_wpn_fps_snp_heffy_792_ba_m76"    : "Zastava M76 Barrel",
+	"bm_wp_wpn_fps_snp_heffy_792_fh_m76"    : "Zastava M76 Muzzle Brake",
+	"bm_wp_wpn_fps_snp_heffy_792_ch_m76"    : "Zastava M76 Bolt",
+	"bm_wp_wpn_fps_snp_heffy_792_ufg_m76"   : "Zastava M76 Upper Handguard",
+	"bm_wp_wpn_fps_snp_heffy_792_lfg_m76"   : "Zastava M76 Lower Handguard",
+	"bm_wp_wpn_fps_snp_heffy_792_st_m76"    : "Zastava M76 Stock",
+	"bm_wp_wpn_fps_snp_heffy_792_pg_m76"    : "Zastava M76 Grip",
+	"bm_wp_wpn_fps_snp_heffy_792_lr_m76"    : "Zastava M76 Receiver",
+	"bm_wp_wpn_fps_snp_heffy_792_ur_m76"    : "Zastava M76 Dust Cover"
 
 }

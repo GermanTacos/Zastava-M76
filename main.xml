@@ -6,96 +6,96 @@
 	
 	<!-- DUMMY -->
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_ba_dummy" based_on="wpn_fps_ass_flint_b_standard" type="barrel" unit="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_ass_heffy_792_ba_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_ba_dummy" based_on="wpn_fps_ass_flint_b_standard" type="barrel" unit="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_snp_heffy_792_ba_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_fh_dummy" based_on="wpn_fps_upg_ass_ns_battle"    type="barrel_ext" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+	<WeaponMod id="wpn_fps_snp_heffy_792_fh_dummy" based_on="wpn_fps_upg_ass_ns_battle"    type="barrel_ext" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
 		<stats concealment="0" damage="0" spread="0" recoil="0"/>
 	</WeaponMod>
 	
 	<!-- M76 -->
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_chb_m76" based_on="wpn_fps_ass_flint_dh_standard" type="bolt" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_chb_m76" based_on="wpn_fps_ass_flint_dh_standard" type="bolt" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_rs_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="recoil_spring" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_rs_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="recoil_spring" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_gb_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="gas_block" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_gb_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="gas_block" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_int1_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal1" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_int1_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal1" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_int2_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal2" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_int2_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal2" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_int3_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal3" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_int3_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal3" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_ch_m76" based_on="wpn_fps_ass_flint_dh_standard" type="drag_handle" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ch_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_ch_m76" based_on="wpn_fps_ass_flint_dh_standard" type="drag_handle" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ch_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_ba_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="barrel2" a_obj="a_b_m76" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ba_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+	<WeaponMod id="wpn_fps_snp_heffy_792_ba_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="barrel2" a_obj="a_b_m76" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ba_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
 		<forbids>
-			<value_node value="wpn_fps_ass_heffy_792_fh_m76"/>
+			<value_node value="wpn_fps_snp_heffy_792_fh_m76"/>
 		</forbids>
 		<override>
-			<wpn_fps_ass_heffy_792_fh_dummy unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fh_m76"/>
+			<wpn_fps_snp_heffy_792_fh_dummy unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fh_m76"/>
 		</override>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_fh_m76" based_on="wpn_fps_upg_ass_ns_battle" type="barrel_ext" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fh_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+	<WeaponMod id="wpn_fps_snp_heffy_792_fh_m76" based_on="wpn_fps_upg_ass_ns_battle" type="barrel_ext" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fh_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<pcs/>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_lr_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="dreceiver" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lr_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+	<WeaponMod id="wpn_fps_snp_heffy_792_lr_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="dreceiver" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lr_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
 		<adds>
-			<value_node value="wpn_fps_ass_heffy_792_stp_m76"/>
+			<value_node value="wpn_fps_snp_heffy_792_stp_m76"/>
 		</adds>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_tr_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="trigger" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_tr_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_tr_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="trigger" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_tr_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_fsl_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="fire_selector" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fsl_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_fsl_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="fire_selector" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fsl_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_rsb_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="rear_sight_block" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_rsb_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_rsb_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="rear_sight_block" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_rsb_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_lrp_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="receiver_part" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lrp_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_lrp_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="receiver_part" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lrp_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_ur_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ur_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_ur_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ur_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_lfg_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="foregrip_lower" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfg_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+	<WeaponMod id="wpn_fps_snp_heffy_792_lfg_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="foregrip_lower" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfg_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
 		<adds>
-			<value_node value="wpn_fps_ass_heffy_792_lfgc_m76"/>
+			<value_node value="wpn_fps_snp_heffy_792_lfgc_m76"/>
 		</adds>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_ufg_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="foregrip_upper" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufg_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+	<WeaponMod id="wpn_fps_snp_heffy_792_ufg_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="foregrip_upper" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufg_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
 		<adds>
-			<value_node value="wpn_fps_ass_heffy_792_ufgc_m76"/>
+			<value_node value="wpn_fps_snp_heffy_792_ufgc_m76"/>
 		</adds>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_lfgc_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="foregrip_cap" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfgc_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_lfgc_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="foregrip_cap" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfgc_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_ufgc_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="foregrip_cap" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufgc_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_ufgc_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="foregrip_cap" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufgc_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_pg_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="grip" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_pg_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_pg_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="grip" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_pg_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_st_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="stock" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_st_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+	<WeaponMod id="wpn_fps_snp_heffy_792_st_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="stock" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_st_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
 		<adds>
-			<value_node value="wpn_fps_ass_heffy_792_stp_m76"/>
+			<value_node value="wpn_fps_snp_heffy_792_stp_m76"/>
 		</adds>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_stp_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="stock_part" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_stp_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_stp_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="stock_part" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_stp_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 
-	<WeaponMod id="wpn_fps_ass_heffy_792_ro_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="rear_sight" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ro_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_ro_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="rear_sight" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ro_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_fo_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="front_sight" unit="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fo_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_fo_m76" based_on="wpn_fps_ass_flint_body_upperreceiver" type="front_sight" unit="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fo_m76" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<!-- MAG -->
 	
-	<WeaponMod id="wpn_fps_ass_heffy_792_m_steel_20" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/wpn_fps_ass_heffy_792_m_steel_20" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_snp_heffy_792_m_steel_20" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/wpn_fps_snp_heffy_792_m_steel_20" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<!-- SCOPE MOUNT -->
 	
 	<WeaponMod id="wpn_fps_upg_o_m76_scopemount" based_on="wpn_fps_ass_flint_body_upperreceiver" type="scopemount" a_obj="a_o_mount" unit="units/pd2_dlc_akm4_modpack/weapons/wpn_fps_upg_o_ak_scopemount/wpn_fps_upg_o_ak_scopemount" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 		
-	<WeaponMod id="wpn_fps_upg_o_m76_l_scopemount" based_on="wpn_fps_ass_flint_body_upperreceiver" type="scopemount" a_obj="a_o_mount" unit="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+	<WeaponMod id="wpn_fps_upg_o_m76_l_scopemount" based_on="wpn_fps_ass_flint_body_upperreceiver" type="scopemount" a_obj="a_o_mount" unit="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<stats recoil="1" concealment="-1"/>
 		<forbids>
 			<value_node value="wpn_fps_upg_o_m76_scopemount"/>
@@ -104,7 +104,7 @@
 	</WeaponMod>
 	
 	<Weapon unlock_level="0">
-		<weapon id="heffy_792" based_on="flint" CLIP_AMMO_MAX="20" NR_CLIPS_MAX="3" use_stance="heffy_792_ads" FIRE_MODE="single" CAN_TOGGLE_FIREMODE="false" can_shoot_through_shield="false" can_shoot_through_enemy="true" can_shoot_through_wall="true" tactical_reload="1" texture_bundle_folder="mods" global_value="heffy_792">
+		<weapon id="heffy_792" based_on="flint" weapon_hold="siltstone" CLIP_AMMO_MAX="20" NR_CLIPS_MAX="3" use_stance="heffy_792_ads" FIRE_MODE="single" CAN_TOGGLE_FIREMODE="false" can_shoot_through_shield="false" can_shoot_through_enemy="true" can_shoot_through_wall="true" tactical_reload="1" texture_bundle_folder="mods" global_value="heffy_792">
 			<stats damage="145" spread="20" spread_moving="20" recoil="4" concealment="17"/>
 			<fire_mode_data fire_rate="0.2"/>
 			<AMMO_PICKUP>
@@ -115,10 +115,10 @@
 				<value_node value="snp"/>
 			</categories>
 			<sounds fire="m76_fire_single" fire_single="m76_fire_single" fire_auto="m76_fire_single" use_fix="true"/>
-			<animations reload_name_id="flint" equip_id="equip_flint" recoil_steelsight="true"/>
+			<animations reload_name_id="siltstone" equip_id="equip_siltstone" recoil_steelsight="true"/>
 		</weapon>
 
-		<factory id="wpn_fps_ass_heffy_792" unit="units/mods/weapons/wpn_fps_ass_heffy_792/wpn_fps_ass_heffy_792">
+		<factory id="wpn_fps_snp_heffy_792" unit="units/mods/weapons/wpn_fps_snp_heffy_792/wpn_fps_snp_heffy_792">
 			
 			<animations fire="recoil" reload="reload" reload_not_empty="reload_not_empty" fire_steelsight="recoil"/>
 			
@@ -133,55 +133,55 @@
 						
 			<default_blueprint>
 				
-				<value_node value="wpn_fps_ass_heffy_792_ba_dummy"/>
-				<value_node value="wpn_fps_ass_heffy_792_fh_dummy"/>
+				<value_node value="wpn_fps_snp_heffy_792_ba_dummy"/>
+				<value_node value="wpn_fps_snp_heffy_792_fh_dummy"/>
 			
-				<value_node value="wpn_fps_ass_heffy_792_ba_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_ch_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_lr_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_tr_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_fsl_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_rsb_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_ur_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_lfg_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_ufg_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_pg_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_st_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_ro_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_fo_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ba_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ch_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_lr_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_tr_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_fsl_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_rsb_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ur_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_lfg_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ufg_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_pg_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_st_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ro_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_fo_m76"/>
 				
-				<value_node value="wpn_fps_ass_heffy_792_chb_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_rs_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_gb_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_int1_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_int2_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_int3_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_chb_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_rs_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_gb_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_int1_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_int2_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_int3_m76"/>
 				
-				<value_node value="wpn_fps_ass_heffy_792_m_steel_20"/>
+				<value_node value="wpn_fps_snp_heffy_792_m_steel_20"/>
 				
 			</default_blueprint>
 
 			<uses_parts>
 			
-				<value_node value="wpn_fps_ass_heffy_792_ba_dummy"/>
-				<value_node value="wpn_fps_ass_heffy_792_fh_dummy"/>
+				<value_node value="wpn_fps_snp_heffy_792_ba_dummy"/>
+				<value_node value="wpn_fps_snp_heffy_792_fh_dummy"/>
 			
-				<value_node value="wpn_fps_ass_heffy_792_ba_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_fh_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_ch_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_lr_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_tr_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_fsl_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_rsb_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_ur_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_lfg_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_ufg_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_pg_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_st_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_ro_m76"/>
-				<value_node value="wpn_fps_ass_heffy_792_fo_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ba_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_fh_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ch_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_lr_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_tr_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_fsl_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_rsb_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ur_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_lfg_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ufg_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_pg_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_st_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_ro_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_fo_m76"/>
 				
-				<value_node value="wpn_fps_ass_heffy_792_m_steel_20"/>
+				<value_node value="wpn_fps_snp_heffy_792_m_steel_20"/>
 				
 				<value_node value="wpn_fps_upg_ns_ass_smg_large"/>
 				<value_node value="wpn_fps_upg_ns_ass_smg_medium"/>
@@ -237,215 +237,215 @@
 	
 		<!-- DUMMY PTS -->
 	
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_ass_heffy_792_ba_dummy"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_ass_heffy_792_ba_dummy"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_ass_heffy_792_ba_dummy"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_ass_heffy_792_ba_dummy"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_ass_heffy_792_ba_dummy"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_snp_heffy_792_ba_dummy"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_snp_heffy_792_ba_dummy"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_snp_heffy_792_ba_dummy"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_snp_heffy_792_ba_dummy"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_snp_heffy_792_ba_dummy"/>
 		
 		<!-- M76 PTS -->
 		
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_barrel_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_barrel_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_barrel_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_barrel_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_barrel"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_barrel_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_barrel"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_barrel_thq"/>
 	
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_body_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_body_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_body_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_body_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_body"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_body_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_body"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_body_thq"/>
 		
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_caps_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_caps_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_caps_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_caps_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_caps"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_caps_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_caps"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_caps_thq"/>
 		
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_ext_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_ext_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_ext_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_ext_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_ext"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_ext_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_ext"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_ext_thq"/>
 		
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_extra_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_extra_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_extra_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_extra_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_extra"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_extra_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_extra"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_extra_thq"/>
 		
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_furniture_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_furniture_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_furniture_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_furniture_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_furniture"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_furniture_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_furniture"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_furniture_thq"/>
 		
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_grip_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_grip_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_grip_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_grip_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_grip"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_grip_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_grip"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_grip_thq"/>
 		
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_stock_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_stock_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_stock_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_stock_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_stock"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/m76_stock_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_stock"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/m76_stock_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ba_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ba_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ba_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ba_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ba_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ba_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ba_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ba_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ba_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ba_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fh_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fh_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fh_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fh_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fh_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fh_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fh_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fh_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fh_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fh_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ch_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ch_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ch_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ch_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ch_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ch_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ch_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ch_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ch_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ch_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lr_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lr_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lr_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lr_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lr_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lr_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lr_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lr_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lr_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lr_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_tr_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_tr_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_tr_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_tr_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_tr_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_tr_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_tr_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_tr_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_tr_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_tr_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_rsb_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_rsb_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_rsb_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_rsb_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_rsb_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_rsb_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_rsb_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_rsb_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_rsb_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_rsb_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fsl_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fsl_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fsl_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fsl_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fsl_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fsl_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fsl_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fsl_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fsl_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fsl_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lrp_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lrp_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lrp_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lrp_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lrp_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lrp_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lrp_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lrp_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lrp_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lrp_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ur_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ur_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ur_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ur_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ur_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ur_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ur_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ur_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ur_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ur_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfg_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfg_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfg_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfg_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfg_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfg_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfg_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfg_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfg_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfg_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufg_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufg_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufg_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufg_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufg_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufg_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufg_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufg_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufg_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufg_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfgc_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfgc_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfgc_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfgc_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_lfgc_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfgc_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfgc_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfgc_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfgc_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_lfgc_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufgc_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufgc_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufgc_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufgc_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ufgc_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufgc_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufgc_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufgc_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufgc_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ufgc_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ro_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ro_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ro_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ro_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_ro_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ro_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ro_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ro_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ro_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_ro_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fo_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fo_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fo_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fo_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_fo_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fo_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fo_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fo_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fo_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_fo_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_pg_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_pg_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_pg_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_pg_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_pg_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_pg_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_pg_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_pg_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_pg_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_pg_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_st_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_st_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_st_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_st_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_st_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_st_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_st_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_st_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_st_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_st_m76_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_stp_m76"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_stp_m76"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_stp_m76"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_stp_m76"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_m76_pts/wpn_fps_ass_heffy_792_stp_m76_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_stp_m76"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_stp_m76"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_stp_m76"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_stp_m76"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_m76_pts/wpn_fps_snp_heffy_792_stp_m76_thq"/>
 	
 		<!-- MAG PTS -->
 	
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/steel_20_df"/>
-		<texture         path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/steel_20_nm"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/steel_20_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/steel_20_nm"/>
 		
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/steel_20"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/steel_20_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/steel_20"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/steel_20_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/wpn_fps_ass_heffy_792_m_steel_20"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/wpn_fps_ass_heffy_792_m_steel_20"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/wpn_fps_ass_heffy_792_m_steel_20"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/wpn_fps_ass_heffy_792_m_steel_20"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_mag_pts/wpn_fps_ass_heffy_792_m_steel_20_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/wpn_fps_snp_heffy_792_m_steel_20"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/wpn_fps_snp_heffy_792_m_steel_20"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/wpn_fps_snp_heffy_792_m_steel_20"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/wpn_fps_snp_heffy_792_m_steel_20"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_mag_pts/wpn_fps_snp_heffy_792_m_steel_20_thq"/>
 		
 		<!-- SCOPE MOUNT PTS -->
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_l_scopemount_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_c_scopemount_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
-		<material_config path="units/mods/weapons/wpn_fps_ass_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount"/>
+		<material_config path="units/mods/weapons/wpn_fps_snp_heffy_792_shared_pts/wpn_fps_upg_o_m76_lc_scopemount_thq"/>
 		
 		<!-- UNIT PTS -->
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_ass_heffy_792/wpn_fps_ass_heffy_792"/>
-		<model           path="units/mods/weapons/wpn_fps_ass_heffy_792/wpn_fps_ass_heffy_792"/>
-		<object          path="units/mods/weapons/wpn_fps_ass_heffy_792/wpn_fps_ass_heffy_792"/>
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792/wpn_fps_ass_heffy_792"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_snp_heffy_792/wpn_fps_snp_heffy_792"/>
+		<model           path="units/mods/weapons/wpn_fps_snp_heffy_792/wpn_fps_snp_heffy_792"/>
+		<object          path="units/mods/weapons/wpn_fps_snp_heffy_792/wpn_fps_snp_heffy_792"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792/wpn_fps_snp_heffy_792"/>
 		
-		<unit            path="units/mods/weapons/wpn_fps_ass_heffy_792/wpn_fps_ass_heffy_792_npc"/>
+		<unit            path="units/mods/weapons/wpn_fps_snp_heffy_792/wpn_fps_snp_heffy_792_npc"/>
 		
 		<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/heffy_792"/>
 
