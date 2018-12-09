@@ -181,6 +181,13 @@
 				<value_node value="wpn_fps_snp_heffy_792_ro_m76"/>
 				<value_node value="wpn_fps_snp_heffy_792_fo_m76"/>
 				
+				<value_node value="wpn_fps_snp_heffy_792_chb_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_rs_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_gb_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_int1_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_int2_m76"/>
+				<value_node value="wpn_fps_snp_heffy_792_int3_m76"/>
+				
 				<value_node value="wpn_fps_snp_heffy_792_m_steel_20"/>
 				
 				<value_node value="wpn_fps_upg_ns_ass_smg_large"/>
