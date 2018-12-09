@@ -111,6 +111,9 @@
 					<value_node value="3"/>
 					<value_node value="6"/>
 			</AMMO_PICKUP>
+			<categories>
+				<value_node value="snp"/>
+			</categories>
 			<sounds fire="m76_fire_single" fire_single="m76_fire_single" fire_auto="m76_fire_single" use_fix="true"/>
 			<animations reload_name_id="flint" equip_id="equip_flint" recoil_steelsight="true"/>
 		</weapon>
